@@ -1,7 +1,7 @@
 <div align="center">
 
-   ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞
    
+⎛⎝ ≽ > ⩊ < ≼ ⎠⎞
 
 # Yury Tsoy Welcomes U 
 
