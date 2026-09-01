@@ -41,7 +41,11 @@ Fullstack-разработчик и технический лидер с опы�
 | Инфраструктура | Docker, Nginx, GitHub Actions (CI/CD), Linux |
 | CMS & прочее | WordPress, Tilda, Joomla, 1С |
 
+</div>
+
 ## 🚀 Что я делаю
+
+<div align="center">
 
 | Направление | Примеры |
 | --- | --- |
@@ -50,6 +54,8 @@ Fullstack-разработчик и технический лидер с опы�
 | Fullstack MVP | Next.js + FastAPI end-to-end сервисы, интеграции внешних API, деплой на VPS |
 | Интеграции | Ozon API, Wildberries API, платёжные и картографические сервисы |
 | Инфраструктура | Docker-контейнеризация, CI/CD, автобэкапы, мониторинг доступности |
+
+</div>
 
 ## 💼 Опыт
 
@@ -77,6 +83,8 @@ SaaS для продавцов Ozon и Wildberries: multi-tenant кабинет,
 
 ## 📬 Контакты
 
+<div align="center">
+   
 [![Portfolio](https://img.shields.io/badge/Портфолио-tsoy.welcomes--u.ru-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://tsoy.welcomes-u.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-@B1essmegod-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/B1essmegod)
 [![Email](https://img.shields.io/badge/Email-ytsoy70%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ytsoy70@gmail.com)
