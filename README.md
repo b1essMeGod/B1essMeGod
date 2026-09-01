@@ -1,6 +1,8 @@
 <div align="center">
 
-# Привет, я Юрий Цой 👋
+   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
+
+# Yury Tsoy Welcomes U 
 
 ### Fullstack Developer
 
