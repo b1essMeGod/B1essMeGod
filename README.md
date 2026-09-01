@@ -32,8 +32,6 @@ Fullstack-разработчик и технический лидер с опы�
 
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,python,fastapi,postgres,redis,docker,nginx,php,mysql,tailwind,figma,git,linux)](https://skillicons.dev)
 
-</div>
-
 | Категория | Технологии |
 | --- | --- |
 | Frontend | React, Next.js (App Router, RSC), TypeScript, Tailwind CSS |
@@ -82,6 +80,8 @@ SaaS для продавцов Ozon и Wildberries: multi-tenant кабинет,
 [![Portfolio](https://img.shields.io/badge/Портфолио-tsoy.welcomes--u.ru-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://tsoy.welcomes-u.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-@B1essmegod-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/B1essmegod)
 [![Email](https://img.shields.io/badge/Email-ytsoy70%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ytsoy70@gmail.com)
+
+</div>
 
 <div align="center">
 
