@@ -67,19 +67,6 @@ SaaS для продавцов Ozon и Wildberries: multi-tenant кабинет,
 **Web-разработчик / Технический специалист — Dream Consulting** · Декабрь 2020 — Ноябрь 2021
 Корпоративные сайты под ключ: 5 сайтов и 7 витрин-одностраничников, адаптивная вёрстка на React/SASS, хостинг и поддержка доменов.
 
-## 📊 GitHub-статистика
-
-<div align="center">
-
-![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=b1essMeGod&theme=tokyonight&hide_border=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=b1essMeGod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1essMeGod&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b1essMeGod&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ## 🎯 В фокусе сейчас
 
 - Развиваю AI-автоматизацию (RAG, мульти-LLM оркестрация) в продуктах для маркетплейсов.
